@@ -16,8 +16,16 @@ In this project, a hypothetical Colorado Board of Elections employee has assigne
 ## Summary
 My analysis produced the following information:
 - There were votes cast in the election.
-- The candidates receiving votes and their corresponding vote counts and percentages were as follows:
+- The candidates receiving votes and their corresponding vote counts and percentage of total votes were as follows:
   -  Charles Casper Stockham: 23% (85,213 votes)
   -  Diana DeGette: 73.8% (272,892 votes)
   -  Raymon Anthony Doane: 3.1% (11,606)
 - The winner of the election was Diana DeGette  
+
+## Challenge Overview
+The Challenge for this project included a request for a breakdown of the votes based by county including:
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+## Challenge Summary
