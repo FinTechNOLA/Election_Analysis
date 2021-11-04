@@ -23,9 +23,18 @@ My analysis produced the following information:
 - The winner of the election was Diana DeGette  
 
 ## Challenge Overview
-The Challenge for this project included a request for a breakdown of the votes based by county including:
+The Challenge for this project included a request for a further breakdown of the votes based by county and the following:
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
 ## Challenge Summary
+Additionaly analysis by county produced the following insights:
+- The county with the highest turnout was
+  - County 1
+  - County 2
+  - County 3
+- The breakdown of votes by county and percentage of total vote count:
+  - County 1
+  - County 2
+  - County 3
