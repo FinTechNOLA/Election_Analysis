@@ -40,5 +40,6 @@ Additionaly analysis by county produced the following insights:
 This script provides a template that can be used for future elections. Some examples of how this can be done include:
  1. The code itself can be modified to include other counties for statewide election using the same code and an expanded data set listing more counties
 ![County Code](https://github.com/FinTechNOLA/Election_Analysis/blob/main/CountyVoteCountCode.png)
- 2. The breakdown of the data can reflect percentages to a greater degree of precision by simply changing some code
+ 2. The breakdown of the data can reflect percentages to a greater degree of precision by simply changing the decimal point in the data summary code.
+![Results Code](https://github.com/FinTechNOLA/Election_Analysis/blob/main/CountyResults.png)
 
