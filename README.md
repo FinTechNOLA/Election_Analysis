@@ -22,19 +22,22 @@ My analysis produced the following information:
   -  Raymon Anthony Doane: 3.1% (11,606)
 - The winner of the election was Diana DeGette  
 
-## Challenge Overview
-The Challenge for this project included a request for a further breakdown of the votes based by county and the following:
+## Audit Overview
+The audit for this project included a request for a further breakdown of the votes based by county and the following:
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-## Challenge Summary
+## Audit Summary
 Additionaly analysis by county produced the following insights:
-- The county with the highest turnout was
-  - County 1
-  - County 2
-  - County 3
+- The county with the highest turnout was Denver
 - The breakdown of votes by county and percentage of total vote count:
-  - County 1
-  - County 2
-  - County 3
+  - Jefferson County with 38,855 votes (10.5% of total votes)
+  - Denver County with 306,055 votes (82.8% of total votes)
+  - Arapahoe County with 24,801 votes (6.7% of total votes)
+
+## Election Audit Summary
+This script provides a template that can be used for future elections. Some examples of how this can be done include:
+ 1. The code itself can be modified to include other counties for statewide election using the same code and an expanded data set listing more counties
+ 2. The breakdown of the data can reflect percentages to a greater degree of precision by simply changing some code
+
