@@ -15,7 +15,7 @@ In this project, a hypothetical Colorado Board of Elections employee has assigne
 
 ## Summary
 My analysis produced the following information:
-- There were votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates receiving votes and their corresponding vote counts and percentage of total votes were as follows:
   -  Charles Casper Stockham: 23% (85,213 votes)
   -  Diana DeGette: 73.8% (272,892 votes)
