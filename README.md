@@ -1,7 +1,7 @@
 ##  Election_Analysis
 
 ## Project Overview
-In this project, a hypothetical Colorado Board of Elections employee has assigned me to complete an audit of a recent local congressional election. I am tasked with completing the following:
+In this project, a Colorado Board of Elections employee has assigned me to complete an audit of a recent local congressional election. I was tasked with completing the following:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of the candidates who received votes.
