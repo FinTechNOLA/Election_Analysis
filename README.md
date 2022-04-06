@@ -29,7 +29,7 @@ The audit for this project included a request for a further breakdown of the vot
 - The county with the highest turnout
 
 ## Audit Summary
-Additionaly analysis by county produced the following insights:
+Additional analysis by county produced the following insights:
 - The county with the highest turnout was Denver
 - The breakdown of votes by county and percentage of total vote count:
   - Jefferson County with 38,855 votes (10.5% of total votes)
